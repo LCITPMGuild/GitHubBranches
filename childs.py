@@ -1,1 +1,3 @@
-this is a child branch
+def samuel_johnson():
+  print("I composed first dict")
+samuel_johnson()
